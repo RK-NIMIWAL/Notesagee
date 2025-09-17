@@ -85,7 +85,7 @@ Copy code
 ## 🗃️ Data Design
 
 ### Request Payload
-```json
+json
 {
   "fileContent": "<Base64 string>",
   "mimeType": "application/pdf"
