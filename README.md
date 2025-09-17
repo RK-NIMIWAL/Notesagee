@@ -135,12 +135,6 @@ Node.js v18+
 
 Google Gemini API Key
 
-Steps
-bash
-Copy code
-# Clone repository
-git clone https://github.com/your-username/ai-notes-summarizer.git
-cd ai-notes-summarizer
 
 # Install dependencies
 npm install
