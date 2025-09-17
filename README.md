@@ -64,7 +64,7 @@ The application follows a **client-server architecture**:
 ---
 
 ## 🗂️ Project Structure
-/src
+
 ├── components
 │ ├── Header.tsx
 │ ├── NoteInput.tsx
@@ -76,11 +76,6 @@ The application follows a **client-server architecture**:
 │ └── geminiService.ts
 ├── App.tsx
 └── index.tsx
-
-yaml
-Copy code
-
----
 
 ## 🗃️ Data Design
 
